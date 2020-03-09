@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(243, 223, 223);
+}
+
+.card{
+  background-color: gray;
+  color: rgb(206, 200, 200);
+  border: 5px solid rgb(27, 26, 26);
+  width: 50%;
+}
+
+p{
+  color: white !important;
+}
