@@ -12,3 +12,8 @@ body{
 p{
   color: white !important;
 }
+
+img{
+  height: 300px;
+  width: 300px;
+}
